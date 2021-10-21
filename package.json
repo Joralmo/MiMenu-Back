@@ -1,0 +1,31 @@
+{
+  "name": "mimenu-back",
+  "version": "0.0.1",
+  "description": "Api de MiMenú",
+  "main": "app.js",
+  "scripts": {
+    "start:dev": "node .\\app.js",
+    "test": "ls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joralmo/MiMenu-Back.git"
+  },
+  "keywords": [
+    "api",
+    "express",
+    "mongo",
+    "jwt",
+    "mongoose"
+  ],
+  "author": "NoEMEC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Joralmo/MiMenu-Back/issues"
+  },
+  "homepage": "https://github.com/Joralmo/MiMenu-Back#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mongoose": "^6.0.11"
+  }
+}
