@@ -5,6 +5,7 @@
     "preserveConstEnums": true,
     "module": "commonjs",
     "esModuleInterop": true,
+    "resolveJsonModule": true,
     "target": "es6",
     "moduleResolution": "node",
     "outDir": "dist"
